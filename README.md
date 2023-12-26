@@ -18,10 +18,6 @@
     
 </div><br>
 
-## Tecnologias que mais utilizo
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaomBRosio&layout=donut)](https://github.com/JoaomBRosio/github-readme-stats)
-
 ## Redes sociais para contato
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jao_ambrosio) 
