@@ -34,5 +34,13 @@
         <a href="https://www.instagram.com/jao_ambrosio"><img class="badge" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
         <a href="https://www.linkedin.com/in/jo%C3%A3o-goldoni-ambrosio-444466211?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img class="badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
     </div>
+
+    <div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OctavioAugustoES/OctavioAugustoES/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OctavioAugustoES/OctavioAugustoES/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OctavioAugustoES/OctavioAugustoES/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
 </body>
 </html>
