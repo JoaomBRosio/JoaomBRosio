@@ -19,7 +19,6 @@
             <img class="badge" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
             <img class="badge" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
             <img class="badge" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
-
         </div>
         <h2>Tecnologias mais exploradas em meus projetos.</h2>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaomBRosio&layout=donut" alt="Top Langs">
