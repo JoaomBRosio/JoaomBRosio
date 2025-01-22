@@ -7,7 +7,7 @@
 <body>
     <div class="container">
         <h1>Olá! Eu sou o João 😁</h1>
-        <p>Apaixonado por programação de back-end, muito versátil e rápido na criação de soluções eficientes e lógicas e sempre buscando melhorar!!!</p>
+        <p>Apaixonado por programação, muito versátil e rápido na criação de soluções eficientes e lógicas e sempre buscando melhorar!!!</p>
         <img src="https://github-readme-stats.vercel.app/api?username=JoaomBRosio&show_icons=true&theme=dark" alt="João GitHub stats">
         <h2>Tecnologias que mais explorei e conheci.</h2>
         <div>
@@ -16,18 +16,17 @@
             <img class="badge" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js">
             <img class="badge" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php">
             <img class="badge" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c#">
+            <img class="badge" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
+            <img class="badge" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+            <img class="badge" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+
         </div>
         <h2>Tecnologias mais exploradas em meus projetos.</h2>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaomBRosio&layout=donut" alt="Top Langs">
-        <h2>Tecnologias que pretendo dominar e explorar.</h2>
-        <div>
-            <img class="badge" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel">
-            <img class="badge" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python">
-            <img class="badge" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo">
-        </div>
         <h2>Bancos de dados mais explorados e utilizados.</h2>
         <div>
             <img class="badge" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
+            <img class="badge" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgsql">
             <img class="badge" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite">
         </div>
         <h2>Plataformas para contato.</h2>
