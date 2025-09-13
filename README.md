@@ -41,9 +41,3 @@ Adoro aprender novas stacks 💻 e aplicá-las para criar soluções criativas e
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaomBRosio&layout=compact&theme=radical)
 
 </a>
-
-<br>
-
-![Snake animation](https://github.com/JoaomBRosio/JoaomBRosio/blob/output/dist/github-contribution-grid-snake.svj)
-
-<br>
