@@ -44,6 +44,6 @@ Adoro aprender novas stacks 💻 e aplicá-las para criar soluções criativas e
 
 <br>
 
-![Snake animation](https://github.com/JoaomBRosio/JoaomBRosio/blob/output/snake.svg)
+![Snake animation](https://github.com/JoaomBRosio/JoaomBRosio/blob/output/dist/github-contribution-grid-snake.gif)
 
 <br>
